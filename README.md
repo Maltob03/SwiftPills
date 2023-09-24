@@ -7,9 +7,3 @@
 </h1>
 
 <h4 align="center">A collection of basic Swift project.</h4>
-
-
-
-
-
-# SwiftPills
