@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://res.cloudinary.com/maltob03/image/upload/v1695547077/Icon_n3pzth.png" alt="SwiftPills" width="200"></a>
+  <a><img src="https://res.cloudinary.com/maltob03/image/upload/v1695547077/Icon_n3pzth.png" alt="" width="200"></a>
   <br>
   SwiftPills
   <br>
